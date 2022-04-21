@@ -1,1 +1,2 @@
-console.log("testing")
+// GET QUOTES FROM API
+
